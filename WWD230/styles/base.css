@@ -1,0 +1,62 @@
+nav{
+
+    
+   text-align: center;
+   font-style: italic;
+   font-size: 2.5em;
+   background-color: grey;
+   padding: 1em;
+
+
+}
+
+img {
+
+    size: 20%;
+    margin-right: 100%;
+    margin-top: 2%;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4em;
+   
+    text-align: center;
+    
+  }
+
+  
+.container div {
+
+    max-width: 1600px ;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body{
+
+    text-align: center;
+    margin: 0%;
+    padding: 4em;
+    
+}
+
+nav a {
+
+    color:antiquewhite;
+}
+
+
+.card h3 {
+    background-color: gray;
+    padding: 1.5%;
+    font-size: 1.8em;
+  
+}
+
+h2{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
